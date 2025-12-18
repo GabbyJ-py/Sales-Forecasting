@@ -24,4 +24,5 @@ This project uses a snapshots of dataset for demonstration purposes.
 - Python & Jupyter Notebook for data analysis
 - Demand forecasting models implementation
 
-### This project was completed as a part of my internship at Femtosoft Technologies.
+
+~This project was completed as a part of my internship at Femtosoft Technologies.~
