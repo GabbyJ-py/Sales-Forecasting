@@ -2,7 +2,8 @@
 This project forecastes sales for retail clients using Python and MySQL.
 It demostrates ETL process, performs data analysis and implement predictive model for demand forecasting.
 
-## Installation
+## Installation:
+
 ## 1. Clone the repository:
 Use `git clone https://github.com/GabbyJ-py/Sales-Forecasting.git` 
 
@@ -25,4 +26,4 @@ This project uses a snapshots of dataset for demonstration purposes.
 - Demand forecasting models implementation
 
 
-~This project was completed as a part of my internship at Femtosoft Technologies.~
+This project was completed as a part of my internship at Femtosoft Technologies.
