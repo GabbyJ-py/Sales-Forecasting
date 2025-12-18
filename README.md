@@ -23,7 +23,13 @@ This project uses a snapshots of dataset for demonstration purposes.
 ### Features
 - MySQL database for storing sales data
 - Python & Jupyter Notebook for data analysis
+- Power BI for creating dashboards
 - Demand forecasting models implementation
+
+## Power BI Dashboards
+
+- [Business Insights Dashboard](charts/Business insights.pdf)
+- [Sales Dashboard](charts/dashboard.pdf)
 
 
 This project was completed as a part of my internship at Femtosoft Technologies.
