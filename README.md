@@ -28,7 +28,7 @@ This project uses a snapshots of dataset for demonstration purposes.
 
 ## Power BI Dashboards
 
-- [Business Insights Dashboard](charts/Business insights.pdf)
+- [Business Insights Dashboard](charts/Business_insights.pdf)
 - [Sales Dashboard](charts/dashboard.pdf)
 
 
